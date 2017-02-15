@@ -3,21 +3,21 @@ This is my personal list of what I use to host things. This is different from my
 
 =================
 
-    - [Analytics](#analytics)
-    - [Blogging](#blogging)
-    - [Bookmarks & Lists](#bookmarks-lists)
-    - [Email](#email)
-    - [Forums](#forums)
-    - [File Sharing & Sync](#file-sharing)
-    - [Media Streaming](#media-streaming)
-    - [Monitoring](#monitoring)
-    - [Office Suites](#office)
-    - [Password Managers](#passwords)
-    - [Software Development](#software-dev)
-    - [URL Shortening](#a7d3)
-    - [VPN](#vpn)
-    - [Web Servers](#web-servers)
-    - [Wikis](#wikis)
+- [Analytics](#analytics)
+- [Blogging](#blogging)
+- [Bookmarks & Lists](#bookmarks-lists)
+- [Email](#email)
+- [Forums](#forums)
+- [File Sharing & Sync](#file-sharing)
+- [Media Streaming](#media-streaming)
+- [Monitoring](#monitoring)
+- [Office Suites](#office)
+- [Password Managers](#passwords)
+- [Software Development](#software-dev)
+- [URL Shortening](#a7d3)
+- [VPN](#vpn)
+- [Web Servers](#web-servers)
+- [Wikis](#wikis)
 
 ## Analytics
 
