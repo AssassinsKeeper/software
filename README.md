@@ -14,7 +14,7 @@ This is my personal list of what I use to host things. This is different from my
 - [Office Suites](#office)
 - [Password Managers](#passwords)
 - [Software Development](#software-dev)
-- [URL Shortening](#a7d3)
+- [URL Shortening](#url-shortening)
 - [VPN](#vpn)
 - [Web Servers](#web-servers)
 - [Wikis](#wikis)
