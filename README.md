@@ -6,6 +6,7 @@ This is my personal list of what I use to host things. This is different from my
 - [Analytics](#analytics)
 - [Blogging](#blogging)
 - [Bookmarks & Lists](#bookmarks-lists)
+- [CDN](#cdn)
 - [Email](#email)
 - [Forums](#forums)
 - [File Sharing & Sync](#file-sharing)
@@ -33,6 +34,11 @@ This is my personal list of what I use to host things. This is different from my
 ## Bookmarks and Lists
 
 * Apaxy - .htaccess beautification of the default Apache file list
+
+## CDN
+
+* Amazon CloudFront - A cheap way to make a CDN anywhere. Doesn't need to control an entire domain name like Cloud Flare, and is less expensive.
+* Cloud Flare - For sites that are more high-traffic and might be subject to DDoS attacks.
 
 ## Email
 
@@ -70,11 +76,10 @@ This is my personal list of what I use to host things. This is different from my
 
 ## Software Development
 
+* Visual Studio Code - In my opinion, the best editor on the market.
 * Atom - Atom editor from Github
-* Brackets - A good alternative to Atom with more features (imo) out of the box
-* Eclipse - My secondary for Java
 * FileZilla - Not neccessarily a dev tool, just what I use for FTP
-* IntelliJ - Main IDE for Java (community version)
+* IntelliJ - Main IDE for Java
 * Notepad++ - Lightweight YAML editor (that's what I use it for at least)
 * Prepros - Preprocess and minify SCSS, LESS, and Javascript
 
@@ -84,12 +89,13 @@ This is my personal list of what I use to host things. This is different from my
 
 ## VPN
 
-* TunnelBear - The best VPN I've ever run
+* Private Internet Access - A fantastic VPN that offers super fast speeds. Faster than Tunnel Bear, it is my go to.
+* TunnelBear - A good VPN, which is what I use as a fallback.
 
 ## Web Servers
 
-* Apache (LAMdbP Stack) - Apache running alongside PHP 7 & Maria DB
-* NGINX (LEMdbP Stack) - Nginx running alongside PHP 7 FPM & Maria DB
+* Apache (LAMP Stack) - Apache running alongside PHP 7 & Maria DB
+* NGINX (LEMP Stack) - Nginx running alongside PHP 7 FPM & Maria DB
 
 ## Wikis
 
